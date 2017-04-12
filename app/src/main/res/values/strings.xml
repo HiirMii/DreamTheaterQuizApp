@@ -1,0 +1,71 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Dream Theater Quiz App</string>
+    
+    <!-- INTRO  -->
+    
+    <string name="intro">Welcome to Dream Theater Quiz</string>
+    <string name="intro_text">This is a quiz about my favourite progressive metal band called Dream Theater. Check your knowledge about them if you dare&#8230;</string>
+    <string name="intro_hint">Enter your name here</string>
+    
+    <!-- QUESTION 1 -->
+
+    <string name="question_1">Question 1</string>
+    <string name="question_1_text">What is the name of this album?</string>
+    <string name="question_1_image_description">Cover of one of the Dream Theater\'s albums.</string>
+    <string name="question_1_radio_1">Awake</string>
+    <string name="question_1_radio_2">Images and Words</string>
+    <string name="question_1_radio_3">Train of Thought</string>
+    <string name="question_1_radio_4">Falling into Infinity</string>
+
+    <!-- QUESTION 2 -->
+
+    <string name="question_2">Question 2</string>
+    <string name="question_2_text">Which of the listed albums were recorded with former keyboard player Derek Sherinian?</string>
+    <string name="question_2_image_description">Derek Sherinian</string>
+    <string name="question_2_checkbox_1">A Change of Seasons</string>
+    <string name="question_2_checkbox_2">Six Degrees of Inner Turbulence</string>
+    <string name="question_2_checkbox_3">The Astonishing</string>
+    <string name="question_2_checkbox_4">Falling into Infinity</string>
+
+    <!-- QUESTION 3 -->
+
+    <string name="question_3">Question 3</string>
+    <string name="question_3_text">Songs: \"The Root of All Evil\", \"Panic Attack\" and \"These Walls\" are included on which Dream Theater album?</string>
+    <string name="question_3_hint">Enter your answer here</string>
+
+    <!-- QUESTION 4 -->
+
+    <string name="question_4">Question 4</string>
+    <string name="question_4_text">What is the name of the Dream Theater guitar player?</string>
+    <string name="question_4_image_description">Photo of the Dream Theater\'s guitar player.</string>
+    <string name="question_4_radio_1">Mike Portnoy</string>
+    <string name="question_4_radio_2">Jordan Rudess</string>
+    <string name="question_4_radio_3">John Petrucci</string>
+    <string name="question_4_radio_4">Mike Mangini</string>
+
+    <!-- QUESTION 5 -->
+
+    <string name="question_5">Question 5</string>
+    <string name="question_5_text">Which of the listed songs can be found on Dream Theater\'s album called \"Metropolis Pt. 2: Scenes from a Memory\"?</string>
+    <string name="question_5_image_description">Cover of Dream Theater\'s album called \"Metropolis Pt. 2: Scenes from a Memory\"</string>
+    <string name="question_5_checkbox_1">Fatal Tragedy</string>
+    <string name="question_5_checkbox_2">The Dance of Eternity</string>
+    <string name="question_5_checkbox_3">Pull Me Under</string>
+    <string name="question_5_checkbox_4">Home</string>
+
+    <!-- QUESTION 6 -->
+
+    <string name="question_6">Question 6</string>
+    <string name="question_6_text">On which instrument is John Muyng playing in Dream Theater?</string>
+    <string name="question_6_hint">Enter your answer here</string>
+
+    <!-- BUTTON -->
+    <string name="button">Submit</string>
+
+    <!-- RESULT  -->
+    <string name="result_label">Congratulations!!!</string>
+    <string name="score"><xliff:g id="name" example="John">%s</xliff:g> you answered correctly to <xliff:g id="quizScore" example="0">%s</xliff:g> out of 6 questions in Dream Theater Quiz.</string>
+    <string name="low_score">Your knowledge of Dream Theater maybe is not the best but I am glad that you gave it a shot. </string>
+    <string name="medium_score">You have a solid knowledge about Dream Theater and of course you know what great music is.</string>
+    <string name="high_score">Outstanding!!! You can call yourself the true Dream Theater fan!!!</string>
+</resources>
